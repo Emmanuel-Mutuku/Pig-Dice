@@ -1,0 +1,9 @@
+.player-console {
+  display: none;
+}
+body {
+  background-image: url("../img/Insomnia2.jpg");
+  width: 100%;
+  height: 100vh;
+  padding-top: 50px;
+}
